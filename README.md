@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/97201e01-c62c-4227-8656-87d5cd97eeb3" /># Digital Literacy Portfolio
+# Digital Literacy Portfolio
 
 **Name:** Deepanwita Paul
 **Registration Number:** 25BCE10208
