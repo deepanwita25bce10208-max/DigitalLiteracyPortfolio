@@ -1,8 +1,11 @@
 # Digital Literacy Portfolio
 
 **Name:** Deepanwita Paul
+
 **Registration Number:** 25BCE10208
+
 **Course:** CSE0001 - Digital Literacy
+
 **Institution:** VIT Bhopal University
 
 ---
